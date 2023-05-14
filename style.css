@@ -1,0 +1,42 @@
+
+body{
+    text-align: center;
+    background-color: #66CEE9;
+    font-size:60%;
+}
+h1{
+  color:greenyellow;
+  opacity:0.7;
+  font-weight:1000;
+  font-size:4em;
+}
+ul {
+list-style-type: none;
+padding: 0;
+}
+p{
+font-size:3em;
+}
+#fournitures{
+font-size:5.2em;
+background-color:aquamarine;
+color:blueviolet;
+letter-spacing:0.07em;
+
+}
+table{
+margin-left: auto;
+margin-right: auto;
+width:100em;
+}
+#aw{
+font-size:9.5px;
+}
+#Qua{
+font-weight: 1000;
+font-size:4em;
+}
+#tabjs{
+border:2px;
+border-collapse: collapse;
+}
